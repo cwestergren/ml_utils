@@ -8,3 +8,6 @@ Visualizes loss as dot patterns ontop of a PyTorch dataloader batch. The point i
 
 Example image from Daniel Bourke's dataset for FoodVision as i had some old code to load this from his GitHub into DataLoaders.
 ![image](https://github.com/cwestergren/ml_utils/assets/5159567/7cea6469-05a1-40e2-ae3b-ad5062f83504)
+
+## Custom Logger
+Just a nifty custom logger that logs to file/stdout.
